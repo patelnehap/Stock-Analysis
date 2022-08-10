@@ -11,9 +11,15 @@ We can safely infer that the stock market fared much better in 2017 than 2018.
 The crash in the stock market in 2018 negatively impacted the investments in the selected stocks. 
 Also refactoring the code reduced the script run time by more than 60%.
 
+
+![2017_Results](https://user-images.githubusercontent.com/110136188/183992433-fbc26866-feb6-4fd6-9957-391f0cea096d.PNG)
+
+![2018_Results](https://user-images.githubusercontent.com/110136188/183992535-93e2aa07-7958-4b51-8861-0a2db27b5b8f.PNG)
+
 ## Summary
 
 -As we went through the self paced learning modules we learned a lot about automating and analyzing the excel data using VBA scripts to build macros.
 We also learned that same results can be acheived by scripting/coding in different ways. 
 After refactoring the self paced learning code the run time of the code reduced significantly. 
 The performance tuning exercise was definetely an eye opener of the scripting world.
+
